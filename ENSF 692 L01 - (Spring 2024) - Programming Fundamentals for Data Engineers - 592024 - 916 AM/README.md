@@ -1,4 +1,7 @@
-## 📝 ENSF 692 - Assignment 1 Tasks
+### 📝 ENSF 692 - Assignment 1 Tasks
+# Author - Tom Wilson
+# Favorite Inspirational Quote - Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.
+
 * Open VSCode and start a new terminal. 
 * Edit this `README` file to add your first and last name, and your favourite inspirational quote.
 * Edit the `assignment1code.py` file by following the instructions in the comments.
